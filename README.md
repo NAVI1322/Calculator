@@ -13,9 +13,8 @@ This is a simple calculator web application built using React.js. It provides ba
 
 ## Technologies Used
 - React.js
-- JavaScript
-- HTML
-- CSS
+- TailWind
+- Typescript
 
 ## Installation
 1. Clone this repository to your local machine.
