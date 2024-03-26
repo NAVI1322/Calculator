@@ -33,6 +33,9 @@ function App() {
       setInput(eval(Input).toString());
     } catch (error) {
       setInput('Error');
+      setTimeout(() => {
+        setInput("")
+      }, 3000);
     }
    
   }
